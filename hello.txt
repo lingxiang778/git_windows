@@ -1,4 +1,4 @@
 hello git!
-text branch~
+text branch first time~
 update hello.txt first time!
 update hello.txt second tie!
