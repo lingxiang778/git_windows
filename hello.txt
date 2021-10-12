@@ -2,3 +2,4 @@ hello git!
 hello git!
 hello git!
 update hello.txt first time!
+update hello.txt second time!
