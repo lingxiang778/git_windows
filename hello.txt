@@ -3,3 +3,4 @@ text branch first time~
 update hello.txt first time! master
 update hello.txt first time! hot-fix
 update hello.txt second time!
+github~
